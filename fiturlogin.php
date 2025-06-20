@@ -1,3 +1,3 @@
 <?php
-echo " ini fitur login broku " ;
+echo " ini fitur login " ;
 ?>
